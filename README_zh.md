@@ -1,5 +1,7 @@
 # RPA-Digital-Employee (RDE)
 
+[English](README.md) | [中文](README_zh.md)
+
 RDE是一个基于RPA技术的闲鱼电商客服自动化解决方案。通过深度优化的提示词工程和高效的API调用策略，为闲鱼卖家提供智能、快速、经济的客服服务。
 
 > 本项目为社区版，开源核心算法。为保护商业利益，不包含数据加密模块和前后端界面。如需私有化部署完整解决方案（含前后端界面、数据加密、多账号管理等企业级功能），请联系我们获取商业版本。
@@ -97,7 +99,7 @@ RPA-Digital-Employee/
 如果您对我们的项目感兴趣，欢迎通过以下方式联系我们：
 
 - 邮箱：jishen_devin@163.com
-- 微信：![微信二维码](resources/wechat.jpg) 
+- 微信：<img src="resources/wechat.jpg" width="200" height="200" alt="微信二维码">
 
 ## 许可证
 

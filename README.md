@@ -1,5 +1,7 @@
 # RPA-Digital-Employee (RDE)
 
+[English](README.md) | [中文](README_zh.md)
+
 RDE is an automated customer service solution for Xianyu e-commerce platform based on RPA technology. Through deeply optimized prompt engineering and efficient API calling strategies, it provides intelligent, fast, and cost-effective customer service for Xianyu sellers.
 
 > This is the community version, open-sourcing core algorithm implementations. To protect commercial interests, it does not include data encryption modules and frontend/backend interfaces. For private deployment of complete solutions (including frontend/backend interfaces, data encryption, multi-account management, and other enterprise-level features), please contact us for the commercial version.
@@ -96,7 +98,7 @@ We are a studio focused on RPA+AI technology innovation, with complete product p
 If you are interested in our project, please contact us through:
 
 - Email: jishen_devin@163.com
-- WeChat: ![WeChat QR Code](resources/wechat.jpg)
+- WeChat: <img src="resources/wechat.jpg" width="200" height="200" alt="WeChat QR Code">
 
 ## License
 
