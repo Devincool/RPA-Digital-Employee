@@ -16,6 +16,13 @@ RDE是一个基于RPA技术的闲鱼电商客服自动化解决方案。通过�
 - 🔒 安全可靠：内置安全存储机制，保护敏感信息
 - 💹 价格管理：支持闲鱼自动议价、改价功能
 
+## 演示视频
+
+<video width="640" height="360" controls>
+  <source src="resources/demo.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
+
 ## 环境要求
 
 - Python 3.8+
@@ -99,7 +106,7 @@ RPA-Digital-Employee/
 如果您对我们的项目感兴趣，欢迎通过以下方式联系我们：
 
 - 邮箱：jishen_devin@163.com
-- 微信：<img src="resources/wechat.jpg" width="200" height="200" alt="微信二维码">
+- 微信：<img src="resources/wechat.jpg" width="200" height="272" alt="微信二维码">
 
 ## 许可证
 

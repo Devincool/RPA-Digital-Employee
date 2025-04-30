@@ -9,11 +9,19 @@ RDE is an automated customer service solution for Xianyu e-commerce platform bas
 ## Key Features
 
 - 🤖 Intelligent Customer Service: Smart dialogue system based on large language models
-- ⚡ Fast Response: Optimized prompt engineering to reduce API call latency
+- ⚡ Fast Response: Second-level response time, easily ranking on Xianyu service response leaderboard
 - 💰 Cost-Effective: Minimize API tokens consumption to reduce operational costs
 - 🔄 System Integration: Seamless integration with Xianyu backend management system
 - 📦 Knowledge Base Support: Automatic product information retrieval and dynamic knowledge base construction
 - 🔒 Security & Reliability: Built-in secure storage mechanism to protect sensitive information
+- 💹 Price Management: Support automatic price negotiation and modification on Xianyu
+
+## Demo Video
+
+<video width="640" height="360" controls>
+  <source src="resources/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Requirements
 
@@ -93,12 +101,12 @@ Issues and Pull Requests are welcome to help improve the project.
 
 ## Investment Opportunities
 
-We are a studio focused on RPA+AI technology innovation, with complete product planning and business strategy. Currently seeking strategic investment to accelerate product development and market expansion.
+We are a studio focused on RPA+AI technology innovation, with complete product planning and business strategy. Currently seeking angel investment to accelerate product development and market expansion.
 
 If you are interested in our project, please contact us through:
 
 - Email: jishen_devin@163.com
-- WeChat: <img src="resources/wechat.jpg" width="200" height="200" alt="WeChat QR Code">
+- WeChat: <img src="resources/wechat.jpg" width="200" height="272" alt="WeChat QR Code">
 
 ## License
 
