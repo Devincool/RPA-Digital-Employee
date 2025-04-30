@@ -1,0 +1,18 @@
+2025-04-30 16:35:40.565 CustomerService.py[1150] _modify_price -> 2025-04-30 16:38:29.193 CustomerService.py[320] check_new_messages -> Find Control Timeout(2s): {ControlType: TextControl}
+2025-04-30 16:38:29.590 xianyu_adapter_v1_21_18.py[73] ManageWindow_good_name -> Find Control Timeout(0.3s): {ControlType: TextControl}
+2025-04-30 16:38:30.761 CustomerService.py[674] check_new_messages -> Find Control Timeout(0.3s): {Depth: 3, ControlType: GroupControl}
+2025-04-30 16:38:41.789 CustomerService.py[320] check_new_messages -> Find Control Timeout(2s): {ControlType: TextControl}
+2025-04-30 16:38:44.109 CustomerService.py[320] check_new_messages -> Find Control Timeout(2s): {ControlType: TextControl}
+2025-04-30 16:38:46.438 CustomerService.py[320] check_new_messages -> Find Control Timeout(2s): {ControlType: TextControl}
+2025-04-30 16:38:46.869 xianyu_adapter_v1_21_18.py[73] ManageWindow_good_name -> Find Control Timeout(0.3s): {ControlType: TextControl}
+2025-04-30 16:38:47.826 xianyu_adapter_v1_21_18.py[73] ManageWindow_good_name -> Find Control Timeout(0.3s): {ControlType: TextControl}
+2025-04-30 16:38:49.794 xianyu_adapter_v1_21_18.py[73] ManageWindow_good_name -> Find Control Timeout(0.3s): {ControlType: TextControl}
+2025-04-30 16:38:51.755 xianyu_adapter_v1_21_18.py[73] ManageWindow_good_name -> Find Control Timeout(0.3s): {ControlType: TextControl}
+2025-04-30 16:38:54.978 CustomerService.py[320] check_new_messages -> Find Control Timeout(2s): {ControlType: TextControl}
+2025-04-30 16:38:55.394 xianyu_adapter_v1_21_18.py[73] ManageWindow_good_name -> Find Control Timeout(0.3s): {ControlType: TextControl}
+2025-04-30 16:38:56.379 xianyu_adapter_v1_21_18.py[73] ManageWindow_good_name -> Find Control Timeout(0.3s): {ControlType: TextControl}
+2025-04-30 16:38:58.357 xianyu_adapter_v1_21_18.py[73] ManageWindow_good_name -> Find Control Timeout(0.3s): {ControlType: TextControl}
+2025-04-30 16:39:00.327 xianyu_adapter_v1_21_18.py[73] ManageWindow_good_name -> Find Control Timeout(0.3s): {ControlType: TextControl}
+2025-04-30 16:39:03.551 CustomerService.py[320] check_new_messages -> Find Control Timeout(2s): {ControlType: TextControl}
+2025-04-30 16:39:05.564 CustomerService.py[578] check_new_messages -> 2025-04-30 16:52:17.306 CustomerService.py[343] check_new_messages -> Find Control Timeout(0.3s): {ControlType: TextControl}
+2025-04-30 16:52:25.698 CustomerService.py[254] _check_lost_messages -> 

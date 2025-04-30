@@ -1,0 +1,10 @@
+requests>=2.31.0
+tqdm
+uiautomation
+PyQt5>=5.15.9
+nuitka
+psutil
+pandas>=2.0.0
+openai
+fuzzywuzzy
+jieba
